@@ -1,0 +1,58 @@
+Notebook 05 
+
+(Sugestão de curso avançado: Origamid, curso online)
+(Sugestão de site para guardar códigos: Github, ex. Menu Hamburguer)
+Sugestão de fotos gratuitas: Unsplash, pesquisar a temática
+Sugestão de cores color.adobe.com
+Sugestão de fontes: Google fonts fonts.google.com
+Sugestão de ícones: flaticon.com, buscar os ícones que usaremos, em torno de 128mp, salvar 3 é usual pedirem multiplos de 12
+Sugestão de site: w3schools
+YOutube: compartilhar e depois incorporar
+Spotfy: compartilhar ..., incorporar
+
+1. HTML (sigla) 5 - Programa de conversão de texto. - ESCRITA E DESENHO - ARQUITETURA
+
+head
+body
+p Parágrafo
+ul (tag da lista não ordenada) - bullet points
+	li
+ol (tag da lista ordenada) (marcadores numéricos)
+span (coringa, deixa editável para alterar no CSS, não pula linha)
+img s(imagem) src=.."incluir o link do caminho da imagem, ex. assets/img/nomedoarquivo"" alt "legenda, imagem do robô"
+img 
+button
+form (formulário)
+inline: na linha
+Div: block (h1 e h2, ex)
+container (caixas)	
+
+Símbolos principais <>
+
+Modelo básico de arquivo: (aula1.html)
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+
+2. CSS3 (sigla cascating-cascata, design e skills) - Estilo - DESIGN DE INTERIORES
+
+Tags
+
+Símbolos principais {}
+
+
+VIsual studio Code

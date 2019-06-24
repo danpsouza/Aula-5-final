@@ -1,0 +1,60 @@
+Portfolio
+
+Rascunho
+
+Cor
+
+1 #FF4C1F - laranja escuro
+2 #A9FF38 - verde limão
+3 #B32704 - marrom
+4 #1846CC - azul claro
+5 #677BB5 - azul VBA
+
+
+Fonte: Merriweather
+HTML
+<link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet"
+CSS
+font-family: 'Merriweather', serif;
+
+Foto
+
+books in glass bookcase (clarisse meyer)
+
+person holding pencil near laptop computer (helloquence)
+
+
+Texto
+
+
+
+Minibio
+
+Habilidade 1
+Título: Advogado
+Descrição: Aconselhamento jurídico e atuação em demandas judiciais e extrajudiciais.
+
+Icone: <div>Icons made by <a href="https://www.flaticon.com/authors/nikita-golubev" title="Nikita Golubev">Nikita Golubev</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"             title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+avatar.png
+
+Habilidade 2 
+Título: Estudante
+Descrição: Em constante atualização de conhecimentos
+<div>Icons made by <a href="https://www.flaticon.com/authors/nikita-golubev" title="Nikita Golubev">Nikita Golubev</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"             title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+book.png
+
+Habilidade 3
+Título: Mediador
+Descrição: Atuação em mediação para resolução de conflitos
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/nikita-golubev" title="Nikita Golubev">Nikita Golubev</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"             title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+agreement.png
+
+Vídeo do youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/osDJkuC7jxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Playlist do Spotify
+
+<iframe src="https://open.spotify.com/embed/track/0T1EaGm6b9eM7xBf4F1hlc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
